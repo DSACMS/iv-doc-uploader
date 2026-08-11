@@ -19,7 +19,7 @@
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
   "vcs": "git",
-  "laborHours": 50,
+  "laborHours": 340,
   "reuseFrequency": {
     "forks": 4
   },
