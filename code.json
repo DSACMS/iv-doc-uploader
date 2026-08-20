@@ -1,8 +1,9 @@
 {
   "name": "iv-doc-uploader",
-  "description": "A frontend prototype for income verification concepts as part of the USDOL ARPA project",
+  "version": "",
+  "description": "A home for the suite of income verification related projects the DSAC and Facing Finical Shock teams are collaborating on",
   "longDescription": "A Next.js/TypeScript frontend prototype for income verification document upload. Allows applicants to submit income documents (pay stubs, bank statements, employer letters) which are then processed with OCR (Tesseract.js) for text extraction or a blur detection engine to assess legibility. Built as part of the USDOL ARPA income verification project.",
-  "status": "Ideation",
+  "status": "Archival",
   "permissions": {
     "licenses": [
       {
@@ -18,10 +19,15 @@
   "repositoryURL": "https://github.com/DSACMS/iv-doc-uploader",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 340,
+  "laborHours": 3852,
   "reuseFrequency": {
-    "forks": 4
+    "forks": 4,
+    "clones": 0
   },
   "platforms": [
     "web"
@@ -42,10 +48,13 @@
     "0"
   ],
   "SBOM": "https://github.com/DSACMS/iv-doc-uploader/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-09-29T19:38:15Z",
-    "lastModified": "2025-01-16T23:21:44Z",
-    "metadataLastUpdated": "2026-08-11T22:34:56.395Z"
+    "lastModified": "2026-08-13T14:12:47Z",
+    "metadataLastUpdated": "2026-08-20T14:23:57.743Z"
   },
   "tags": [
     "income-verification",
@@ -53,7 +62,8 @@
     "ocr",
     "benefits",
     "next.js",
-    "uswds"
+    "uswds",
+    "archived"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
